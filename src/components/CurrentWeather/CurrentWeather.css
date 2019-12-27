@@ -1,0 +1,14 @@
+.day-forecast {
+      
+      background-image: linear-gradient(to bottom right, #53ccf5, #49c5c5);
+      border-radius: 8px;
+      padding: 20px;
+      width: 50%;
+}
+.row {
+      display: flex;
+      /* border:2px solid gold; */
+      justify-content: space-between;
+      align-items: center;
+      
+}

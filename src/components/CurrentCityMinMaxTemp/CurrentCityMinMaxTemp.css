@@ -1,0 +1,15 @@
+.currentCityMinMaxTemp {
+      display: flex;
+     align-items: center;
+      
+      font-size: 18px;
+      font-weight: 300;
+    
+}
+.arrow {
+      
+      
+}
+.temp {
+      padding-right: 5px;
+}

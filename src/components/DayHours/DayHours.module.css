@@ -1,0 +1,36 @@
+.day  {
+      color: rgba(255, 255, 255, 0.8);
+      font-size: 24px;
+      background-image: linear-gradient(to bottom right, #5399f5, #d9c5c5);
+      flex-basis: 18%;
+      border: 1px solid #5333f5;
+      margin: 0 5px;
+      border-radius: 14px;
+      outline:none;
+      text-decoration: none;
+
+}
+.day:hover {
+      background-image: linear-gradient(to bottom right, #5322f5, #d935c5);
+    
+}
+.wrapper {text-decoration: none;
+display: flex;
+flex-direction: column;
+text-decoration: none;
+width: 100%;}
+
+
+
+.title {
+      text-align: center;
+      color:#ffffff;
+      font-size: 24px;
+      margin-bottom: 10px;
+}
+.list {
+      display: flex;
+      width: 100%;
+      justify-content: space-around;
+      color:#ffffff;
+}

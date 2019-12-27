@@ -1,0 +1,16 @@
+.city-name {
+ font-size: 32px;
+ font-weight: 700;
+ text-transform: uppercase;
+     
+}
+.input {
+      font-size: 24px;
+      margin-right: 10px;
+}
+.getWeatherButton {
+      font-size: 24px;
+      border-radius: 6px;
+      background-image: linear-gradient(to bottom right, #d3ccf5, #d3824d);
+      color: #ffffff;
+}

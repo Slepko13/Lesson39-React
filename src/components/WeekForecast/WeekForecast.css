@@ -1,0 +1,10 @@
+.weekForecast {
+      display: flex;
+      justify-content: space-between;
+      text-align: center;
+      background-image: linear-gradient(to bottom right, #11cc33, #963545);
+      border-radius: 8px;
+      padding: 20px;
+      width: 50%;
+      ;
+}
